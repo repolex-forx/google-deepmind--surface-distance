@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "google-deepmind",
+  "repo": "surface-distance",
+  "versions": [
+    {
+      "commit": "1f805cea446805e559badc80dd27f34175e4173d",
+      "parsed_at": "2026-11-06T08:10:13.458681+00:00",
+      "filetree": "filetree/1f805cea446805e559badc80dd27f34175e4173d.nq.gz",
+      "blobs": [
+        "blob/0d11d7d60f001be2fa9813a3c4c4dce4d45634b3.nq.gz",
+        "blob/03692d025d0bda8f89bb2b9a0e02820a912fa3a1.nq.gz",
+        "blob/dc762cdd671efc9ab4ebcfac397c3a03a4e1b728.nq.gz",
+        "blob/067b9d617b7fa2094e8903db70961110e1599098.nq.gz",
+        "blob/d645695673349e3947e8e5ae42332d0ac3164cd7.nq.gz",
+        "blob/f74356dcd643073270e8defe573f09ce4886ab51.nq.gz",
+        "blob/8e74e95791cb1de44bf81550be9b33d5a9a83276.nq.gz",
+        "blob/ed38e2154fefabf380c5dc309806ac33b806f7c4.nq.gz",
+        "blob/9d1ccb5ea361c8e84e9db13254bbd6688c5d63c5.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
