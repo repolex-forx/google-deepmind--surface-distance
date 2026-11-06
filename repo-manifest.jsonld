@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/surface-distance/commit/1f805cea446805e559badc80dd27f34175e4173d",
       "git:hexsha": "1f805cea446805e559badc80dd27f34175e4173d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
